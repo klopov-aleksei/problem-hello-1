@@ -8,4 +8,4 @@ Home assingment 2a - "editing arrays". First opens binary file, finds out its si
 ## Build
 make
 ## Run
-./hello
+./reverse
