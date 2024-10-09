@@ -8,4 +8,4 @@ Home assingment 2b - creates calculator using operands and operations, which you
 ## Build
 make
 ## Run
-./hello
+./solve
